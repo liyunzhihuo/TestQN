@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">七牛测试</string>
+
+    <!--视频录制-->
+    <string name="if_edit_video">是否编辑视频</string>
+    <string name="dlg_yes">是</string>
+    <string name="dlg_no">否</string>
+</resources>

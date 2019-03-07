@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/custom_text"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/offset_12dp"
+    android:paddingRight="@dimen/offset_12dp"
+    android:background="?attr/selectableItemBackground"
+    android:gravity="center"
+    android:lines="1"
+    android:maxEms="6"
+    android:ellipsize="end"
+    android:textColor="@drawable/video_tab_text_color_selector"
+    android:textSize="14sp"/>

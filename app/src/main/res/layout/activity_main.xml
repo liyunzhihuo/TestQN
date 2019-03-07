@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/btn_to_play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="播放" />
+
+    <Button
+        android:id="@+id/btn_to_record"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45dp"
+        android:text="录制" />
+
+    <Button
+        android:id="@+id/btn_test_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TestBar"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_test_my_select"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Test My Select"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_test_select"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select"
+        android:textAllCaps="false" />
+</LinearLayout>
